@@ -1,5 +1,6 @@
 # Wikipedia
 All information on the way.
+
 ## Installation
 
 Use the version control to access it.
@@ -13,8 +14,7 @@ https://github.com/prak899/Samaj.git
 <img src="https://user-images.githubusercontent.com/58839967/119495253-db240800-bd7f-11eb-8c29-877b0c0bba42.png" width="30%"></img>
 
 ## Usage
-
-
+Wikipedia is a free, multilingual online encyclopedia written and maintained by a community of volunteer contributors through a model of open collaboration, using a wiki-based editing system
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
