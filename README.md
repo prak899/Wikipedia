@@ -2,7 +2,7 @@
 All information on the way.
 
 ## Installation
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](/prak899/Wikipedia/releases/latest/download/Wikipedia.apk)
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Apk(prak899/Wikipedia/releases/download/Wikipedia.apk)
 
 
 Use the version control to access it.
